@@ -1,0 +1,19 @@
+{
+  "name": "node-crc",
+  "description": "",
+  "version": "0.0.1",
+  "private": false,
+  "engines": {
+    "node": ">=5.7.0",
+    "npm": ">=3.6.0"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+
+  }
+}
